@@ -12,7 +12,7 @@ I like projects where data meets engineering: distributed systems that process d
 |---|---|---|
 | [**E.C.H.O.**](https://github.com/emasmisi/echo-seismic-monitoring) | Distributed, fault-tolerant platform that classifies seismic events in real time (FFT on sliding windows, replicated processing, idempotent persistence) | Python · FastAPI · WebSockets · Docker · PostgreSQL · Nginx · React |
 | [**Purchasing Power of the Tech Worker**](https://github.com/emasmisi/tech-worker-purchasing-power-dw) | Star-schema data warehouse answering *"where does a tech salary buy the most?"* | PostgreSQL · Python ETL · OLAP SQL · Streamlit |
-| [**Reddit Sentiment × Bitcoin**](https://github.com/emasmisi/reddit-sentiment-bitcoin-forecasting) | BSc thesis: does Reddit sentiment (VADER vs FinBERT) improve hourly BTC forecasts? | Transformers · XGBoost · LSTM · Diebold–Mariano tests |
+| [**Reddit Sentiment × Bitcoin**](https://github.com/emasmisi/reddit-sentiment-bitcoin-forecasting) | BSc thesis: does Reddit sentiment (VADER vs FinBERT) improve hourly BTC forecasts? | Transformers · XGBoost · LSTM · Diebold-Mariano tests |
 | [**Machine Learning Projects**](https://github.com/emasmisi/machine-learning-projects) | Classifier comparison on imbalanced data; CNN / FNN / K-Means with PCA vs autoencoders | PyTorch · Keras · scikit-learn |
 
 ### Toolbox
