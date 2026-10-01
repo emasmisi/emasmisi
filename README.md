@@ -6,6 +6,8 @@ I like projects where data meets engineering: distributed systems that process d
 
 🔎 **Open to internships**: data science, ML and software engineering. Based in Rome, happy to relocate.
 
+📄 **CV:** [English](cv/Emanuele_Smisi_CV_EN.pdf) · [Italiano](cv/Emanuele_Smisi_CV_IT.pdf)
+
 ### Selected projects
 
 | Project | What | Stack |
