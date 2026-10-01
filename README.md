@@ -14,6 +14,7 @@ I like projects where data meets engineering: distributed systems that process d
 | [**Purchasing Power of the Tech Worker**](https://github.com/emasmisi/tech-worker-purchasing-power-dw) | Star-schema data warehouse answering *"where does a tech salary buy the most?"* | PostgreSQL · Python ETL · OLAP SQL · Streamlit |
 | [**Reddit Sentiment × Bitcoin**](https://github.com/emasmisi/reddit-sentiment-bitcoin-forecasting) | BSc thesis: does Reddit sentiment (VADER vs FinBERT) improve hourly BTC forecasts? | Transformers · XGBoost · LSTM · Diebold-Mariano tests |
 | [**Machine Learning Projects**](https://github.com/emasmisi/machine-learning-projects) | Classifier comparison on imbalanced data; CNN / FNN / K-Means with PCA vs autoencoders | PyTorch · Keras · scikit-learn |
+| [**MyPiggyBank**](https://github.com/emasmisi/mypiggybank) | Local-first savings app designed with its users: survey, STNs, mockups, heuristic evaluation, think-aloud and a controlled experiment ([live prototype](https://emasmisi.github.io/mypiggybank/)) | HCI · React · TypeScript |
 
 ### Toolbox
 **Languages:** Python, SQL  
