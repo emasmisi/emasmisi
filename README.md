@@ -1,12 +1,10 @@
-## Hi, I'm Emanuele 👋
+## Hi, I'm Emanuele
 
-MSc student in **Engineering in Computer Science and Artificial Intelligence** at Sapienza University of Rome, with a BSc in **Economics and Big Data** (Roma Tre).
+MSc student in Engineering in Computer Science and Artificial Intelligence at Sapienza University of Rome, after a BSc in Economics and Big Data (Roma Tre). I work on machine learning and data systems, and I'm especially interested in how large language models work and how to train them safely.
 
-I like projects where data meets engineering: distributed systems that process data in real time, data warehouses that answer business questions, and ML models tested against baselines that are hard to beat.
+**Looking for** a curricular thesis internship from spring 2027 (3 to 6 months, in Italy or abroad).
 
-🔎 **Open to internships**: data science, ML and software engineering. Based in Rome, happy to relocate.
-
-📄 **CV:** [English](cv/Emanuele_Smisi_CV_EN.pdf) · [Italiano](cv/Emanuele_Smisi_CV_IT.pdf)
+**CV:** [English](cv/Emanuele_Smisi_CV_EN.pdf) · [Italiano](cv/Emanuele_Smisi_CV_IT.pdf) · [LinkedIn](https://www.linkedin.com/in/emanuele-smisi/)
 
 ### Selected projects
 
@@ -19,12 +17,11 @@ I like projects where data meets engineering: distributed systems that process d
 | [**MyPiggyBank**](https://github.com/emasmisi/mypiggybank) | Local-first savings app designed with its users: survey, STNs, mockups, heuristic evaluation, think-aloud and a controlled experiment ([live prototype](https://emasmisi.github.io/mypiggybank/)) | HCI · React · TypeScript |
 
 ### Toolbox
-**Languages:** Python, SQL  
-**ML / Data:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, Hugging Face, pandas, NumPy  
-**Data & Systems:** PostgreSQL, SQL Server, data warehousing (star schema, ETL, OLAP), Docker, FastAPI, Git  
-**AI-assisted development:** Claude Code  
+
+- **Languages:** Python, SQL
+- **ML / Data:** PyTorch, scikit-learn, Hugging Face, pandas, NumPy, time series
+- **Data & Systems:** PostgreSQL, SQL Server, data warehousing (star schema, ETL, OLAP), Docker, FastAPI, Git, distributed systems
 
 ### Languages
-🇮🇹 Italian (native) · 🇬🇧 English (B2)
 
-<!-- LinkedIn and personal site links will be added here -->
+Italian (native) · English (B2)
